@@ -1,0 +1,22 @@
+.cTitle{
+  padding: 20px;
+  background-color: rgb(174, 174, 174);
+
+}
+.demoImage{
+  margin: 6px;
+  padding: 10px;
+}
+.demoImage2{
+  margin: 0 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
+.demoImage3{
+  margin: 0 5px;
+  padding: 10px;
+  height: 600px;
+}
+.lazySlide{
+  background-color: transparent;
+}
